@@ -5,7 +5,7 @@
 ## 📈 Github Stats
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=tpham1467&theme=tokyonight&show_icons=true&count_private=true" width="500px" height="100px">
+<img src="https://github-readme-stats.vercel.app/api?username=tpham1467&theme=tokyonight&show_icons=true&count_private=true" width="500px" height="400px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpham1467&theme=tokyonight&layout=compact&langs_count=6" width="64px" height="64px">
 </div>
 
