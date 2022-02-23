@@ -5,8 +5,8 @@
 ## 📈 Github Stats
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=tpham1467&theme=tokyonight&show_icons=true&count_private=true" width="400px" height="350px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpham1467&theme=tokyonight&layout=compact&langs_count=6" width="400px" height="350px">
+<img src="https://github-readme-stats.vercel.app/api?username=tpham1467&theme=tokyonight&show_icons=true&count_private=true" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpham1467&theme=tokyonight&layout=compact&langs_count=6">
 </div>
 
 <h2 align="center">👽 Where to find me 👽</h2>
