@@ -2,7 +2,8 @@
 <a href=https://www.linkedin.com/in/ph%E1%BA%A1m-tr%C6%B0%E1%BB%9Fng-512663211/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn">
 
 - 🌱 I’m currently learning at <a href="http://dut.udn.vn/">DUT</a>
-## 📈 Github Stats
+## 🔥 GitHub Stats 🔥
+
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=tpham1467&theme=tokyonight&show_icons=true&count_private=true" >
