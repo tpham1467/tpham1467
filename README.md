@@ -1,5 +1,4 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Truong Pham   <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
- <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn">
 
 - 🌱 I’m currently learning at <a href="http://dut.udn.vn/">DUT</a>
 ## 🔥 GitHub Stats 🔥
