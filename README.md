@@ -10,7 +10,7 @@
 </div>
 
 ## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HelpMe-Pls&theme=algolia" alt="Tpham1467" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tpham1467&theme=algolia" alt="Tpham1467" /></p>
 <div> 
   
   ![Snake animation](https://github.com/HelpMe-Pls/HelpMe-Pls/blob/output/github-contribution-grid-snake.svg)
