@@ -9,6 +9,14 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpham1467&theme=tokyonight&layout=compact&langs_count=6">
 </div>
 
+## 📊 Github Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HelpMe-Pls&theme=algolia" alt="Tpham1467" /></p>
+<div> 
+  
+  ![Snake animation](https://github.com/HelpMe-Pls/HelpMe-Pls/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
