@@ -2,10 +2,6 @@
 
 - 🌱 I’m currently learning at <a href="http://dut.udn.vn/">DUT</a>
 ## 🔥 GitHub Stats 🔥
-
-
-
-## 📊 Github Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tpham1467&theme=algolia" alt="Tpham1467" /></p>
 <div> 
   
