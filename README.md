@@ -19,7 +19,7 @@
   <a href="https://www.youtube.com/channel/UCBrvqMAgY-TJBRJyAE4IMjA" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="Tpham1467-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/ph%E1%BA%A1m-tr%C6%B0%E1%BB%9Fng-512663211/" target="blank">
+  <a href="https://www.linkedin.com/in/tpham1467/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Tpham1467-linkedin" />
   </a>
   <a href="mailto:tpham1467@gmail.com" target="top">
