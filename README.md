@@ -1,5 +1,4 @@
-# 👋 Hello, I'm Truong  
-<img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
+# 👋 Hello, I'm Truong  <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
 
 ## 🚀 About Me  
 - 🌱 I’m currently learning at [DUT](http://dut.udn.vn/)  
@@ -8,18 +7,12 @@
 
 ## 🔥 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tpham1467&show_icons=true&theme=algolia" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tpham1467&show_icons=true&theme=dracula" alt="GitHub Streak Stats" />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
 </p>
-
-## 📊 GitHub Profile Summary  
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tpham1467&theme=github_dark" alt="GitHub Profile Summary" />
-</p>
-
-## 🐍 Contribution Snake  
-<div align="center">  
-  <img src="https://github.com/tpham1467/tpham1467/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />  
-</div>
 
 ## 📫 Connect with Me  
 <div align="center">
