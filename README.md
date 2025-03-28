@@ -19,9 +19,6 @@
   <a href="https://www.facebook.com/profile.php?id=100011222585785" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Facebook" />
   </a>
-  <a href="https://www.youtube.com/channel/UCBrvqMAgY-TJBRJyAE4IMjA" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="YouTube" />
-  </a>
   <a href="https://www.linkedin.com/in/tpham1467/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="LinkedIn" />
   </a>
