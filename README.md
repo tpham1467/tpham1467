@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Truong  <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
 
 ## 🚀 About Me  
-- 🌱 I’m currently learning at [DUT](http://dut.udn.vn/)  
+- 🌱 I graduated from [DUT](http://dut.udn.vn/) with an Engineer’s Degree in Software Engineering
 - 💻 Passionate about software development, AI, and open-source projects  
 - 🎯 Always eager to learn and explore new technologies  
 
