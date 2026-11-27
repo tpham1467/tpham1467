@@ -14,15 +14,3 @@
   />
 </p>
 
-## 📫 Connect with Me  
-<div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100011222585785" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/tpham1467/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tpham1467@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Email" />
-  </a>
-</div>
